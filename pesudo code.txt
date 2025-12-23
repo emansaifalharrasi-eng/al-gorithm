@@ -168,6 +168,14 @@ and the second charactor with before end charactor
 5 else is not Palindrme
 
 
+task 10
+
+1 input N
+2 set the sequence start with a=0 ,b=1
+3 the third number the sequence is (the sum two previous numbers) 
+4 output the Fibonacci numbers
+
+
 
  
  
