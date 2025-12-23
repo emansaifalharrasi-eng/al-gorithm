@@ -88,5 +88,26 @@ RETURN -1 // Element not found
 END
 
 
+Tasks
+
+task 1
+
+1 input a list of numbers
+2 set sum =0
+3 add each number in the list to sum
+4 calculate the average= sum %  count of numbers in the list
+5 return the average
+
+task 2
+
+1 input the numbers
+2 if the number%2 =0
+3 print even number
+4 else odd number
+
+
+ 
+
+
 
 
