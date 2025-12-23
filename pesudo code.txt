@@ -1,0 +1,92 @@
+What is Pseudocode 
+
+It is a simplified, high-level representation of an algorithm that uses plain English and programming-like constructs to describe the logic.
+ It is an informal and contrived way of writing programs in which you represent the sequence of actions and instructions(algorithms) in a form that humans can easily understand.
+
+Why and when we use it?
+
+When you're writing code in a programming language, you’ll have to battle with strict syntax and rigid coding patterns. But you write pseudocode in a language or form with which you're very familiar.
+
+Since pseudocode is an informal method of program design, you don’t have to obey any set-out rules. You make the rules yourself.
+
+Pseudocode acts as the bridge between your brain and computer’s code executor. It allows you to plan instructions which follow a logical pattern, without including all of the technical details.
+
+Pseudocode is a great way of getting started with software programming as a beginner. You won’t have to overwhelm your brain with coding syntax.
+
+In fact, many companies organize programming tests for their interviewees in pseudocode. This is because the importance of problem solving supersedes the ability to ‘hack’ computer code.
+
+You can get quality code from many platforms online, but you have to learn problem solving and practice it a lot.
+
+
+How to write pseudocode to represent algorithm?
+
+Pseudocode is not a programming language — it’s a structured way to describe an algorithm in plain, human-readable
+steps before coding.
+
+Steps to Write Pseudocode:
+
+Understand the Problem
+Clearly define the input, process, and output.
+
+2. Use Simple Language
+Write in plain English (or your preferred language) with logical flow.
+
+3. Follow a Structured Format
+*Use indentation to show hierarchy.
+*Use keywords like START, END, IF, ELSE, WHILE, FOR, etc.
+
+4. Be Language-Independent
+Avoid syntax from any specific programming language.
+
+5. Keep It Clear and Concise
+Each step should be easy to understand.
+
+
+Example of problem algorithm written in pesudocode?
+
+Example Problem:
+
+1 "Write an algorithm to find the largest number among three given numbers."
+
+Pseudocode:
+
+
+Copy code
+START
+    INPUT num1, num2, num3
+
+    IF num1 >= num2 AND num1 >= num3 THEN
+        largest ← num1
+    ELSE IF num2 >= num1 AND num2 >= num3 THEN
+        largest ← num2
+    ELSE
+        largest ← num3
+    ENDIF
+
+    OUTPUT "The largest number is", largest
+END
+
+
+2. Binary Search
+
+Binary search is an efficient algorithm for finding an element in a sorted array by repeatedly dividing the search space in half.
+
+BEGIN BinarySearch
+INPUT: Array ARR, Value X
+SET LOW = 0, HIGH = length(ARR) - 1
+WHILE LOW <= HIGH DO
+SET MID = (LOW + HIGH) / 2
+IF ARR[MID] == X THEN
+RETURN MID
+ELSE IF ARR[MID] < X THEN
+SET LOW = MID + 1
+ELSE
+SET HIGH = MID - 1
+ENDIF
+ENDWHILE
+RETURN -1 // Element not found
+END
+
+
+
+
