@@ -105,6 +105,31 @@ task 2
 3 print even number
 4 else odd number
 
+task 3
+
+1 input the list of numbers
+2 set the first number=the smallest
+3 look at the all number if small
+4 output the smallest 
+
+task 4
+
+1 input the list of numbers
+2 if number >0 is positive
+3 if number <0 is nagitive
+4 print the output
+
+task 5
+
+ 1 input the list of number
+ 2 create a list and called it unique numbers
+ 3 look at the number if in the unique list
+ 4 if not put it in the unique list
+ 5 output the unique numbers
+
+
+ 
+ 
 
  
 
