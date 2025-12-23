@@ -158,6 +158,16 @@ if number is larger than N number
 4 output the the second largest number
 
 
+task 9
+
+1 input  words as a string
+2 set Palindrome is true
+3 compair the first charactor with the end charactor
+and the second charactor with before end charactor
+4 if palindrome ,print true
+5 else is not Palindrme
+
+
 
  
  
