@@ -135,10 +135,10 @@ task 5
 task 6
 
 1 input the Number N
-2 if the number is < or = the N number
+2 if the number %1 and % himself without reminder  
 3 print the prime is true
 4 else is false 
-5 output the list of all prime number < or = N
+5 output the list of all prime number 
 
 
 task 7
