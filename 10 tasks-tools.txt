@@ -1,0 +1,92 @@
+Task1: 
+input
+read N
+
+variable
+sum =0
+i=1
+i<=N
+average=sum%N
+
+output
+display the average
+
+------------------------------------------------------
+
+Task2:
+ input
+read N
+
+function
+reminder=number%2
+
+if condition
+reminder=0
+yes:even
+no: odd
+
+output
+display
+odd
+even
+
+-----------------------------------------------------
+
+
+Task3:
+ input
+read N
+a=1
+b=2
+c=3
+
+variable 
+min=first number
+i=2
+i<=N
+
+condition
+current num<min
+min =current num
+i=i+1
+
+i<=N
+
+output
+display min
+
+------------------------------------------------------------------
+
+ 
+Task4: input - output - function - if condition - loop
+
+Task5: input - output - loop - 
+
+Task 6:input - output - if condition -loop
+ 
+Task 7:input - output - varible - function
+
+Task 8: input - output - loop - if condition 
+
+Task 9:input - output - varible - function 
+
+Task 10:
+input
+ read N
+
+varable
+a=0
+b= 1
+i=1
+i<N
+
+output
+print a
+
+ 
+
+
+
+
+
+ 
