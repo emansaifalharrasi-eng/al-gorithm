@@ -58,18 +58,137 @@ display min
 ------------------------------------------------------------------
 
  
-Task4: input - output - function - if condition - loop
+Task4:
+ input
+read N
 
-Task5: input - output - loop - 
+process
+i=1
 
-Task 6:input - output - if condition -loop
+condition
+i<=1
+num>0
+
+output
+if yes print positive
+
+condition
+if num=o
+if yes print 0
+if no print nagitive
+
+process
+i=i+1
+i<=N
+
+stop
+--------------------------------------------------------------------
+
+Task5: 
+input 
+read N
+read list
+
+process
+unique list =empty
+i=1
+
+condition 
+i<=N
+
+process
+current=list i
+
+condition
+current in unique list
+
+if no add to the unique list
+
+process 
+i=i+1
+
+output
+print the list with unique number 
  
-Task 7:input - output - varible - function
+------------------------------------------------------------- 
 
-Task 8: input - output - loop - if condition 
+Task 6:
+input
+read N
 
-Task 9:input - output - varible - function 
+process
+i=2
 
+condition
+i<=N
+
+process
+x=2
+condition 
+if prime= true
+
+
+x<i
+
+if i%x =0
+if yes prime=false
+if no 
+x=x+1
+
+output
+print i
+
+------------------------------------------------------
+ 
+Task 7:
+input
+read N1
+read list 1
+read N2
+read list 2
+
+process
+ merged list
+
+condition
+
+add list1 to merged list
+add list 2 to merged list
+
+
+output
+print the merged list
+
+------------------------------------
+
+Task 8:
+ input 
+read N
+
+condition
+ max=1
+ max=2
+
+
+output 
+print max 2
+ 
+---------------------------------------------
+Task 9:
+input
+read word
+ 
+condition
+left=0
+right=wordlenghth-1
+
+if right=left
+
+
+output
+print palindrome 
+
+---------------------------------------------
 Task 10:
 input
  read N
